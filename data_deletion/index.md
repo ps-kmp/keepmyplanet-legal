@@ -8,7 +8,7 @@ Se tiveres dificuldades técnicas ou precisares de ajuda adicional, podes entrar
 
 ## Etapas para solicitar a exclusão de dados por e-mail:
 
-1. Envia um e-mail para: **keepmyplanet.app@gmail.com**
+1. Envia um e-mail para: **keepmyplanet@gmail.com**
 2. No assunto escreve: `Pedido de exclusão de dados`
 3. No corpo do e-mail, inclui:
    - O teu nome de utilizador (ou e-mail, se aplicável)
